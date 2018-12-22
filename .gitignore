@@ -2,7 +2,8 @@
 .DS_Store
 
 # idea
-.idea/*
+.idea/
+algorithm_practice.iml
 
 # Compiled class file
 *.class
